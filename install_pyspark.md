@@ -32,7 +32,7 @@ On Ubunto run:
 - Run wget and the URL you just copied on Ubunto (wget https://dlcdn.apache.org/spark/spark-3.5.1/spark-3.5.1-bin-hadoop3.tgz)
 - Run tar xvf spark-3.5.1-bin-hadoop3.tgz to unpack (the file name may be different depending the version you choose)
 - For the sake of good practices run sudo mv spark-3.5.1-bin-hadoop3 /opt/spark
-- [!Link_pyspark](images/spark_link.png)
+- ![Link_pyspark](images/spark_link.png)
 
 # Setting env variables
 We need to set the system variables properly for be able to run pyspark command, wherever folder you are in Ubunto.
@@ -48,7 +48,7 @@ Run:
 - vi ~/.profile
 - put quotes surrounding PATH variable
 - save the alteration with esc :wq!
-- [!PATH_VAR](images/path.png)
+- ![PATH_VAR](images/path.png)
 
 # Start your cluster
 After all these steps you need to run some scripts to run you work and master (letter you'll discuss this)
