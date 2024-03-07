@@ -3,7 +3,7 @@
 
 # Wactch a video about it
 
-["Create_SparkSession](https://www.youtube.com/watch?v=tdRpa8dGZdg&feature=youtu.be)
+["Create SparkSession"](https://www.youtube.com/watch?v=tdRpa8dGZdg&feature=youtu.be)
 
 ```python
 from pyspark.sql import SparkSession
