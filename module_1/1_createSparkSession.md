@@ -7,3 +7,4 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder\
 .config("spark.app.name","sparksession")\
 .getOrCreate()
+
