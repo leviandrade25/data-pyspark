@@ -1,4 +1,4 @@
-"""
+
 # Exemplo de Script Python com Markdown
 
 Este script exemplifica como incluir **Markdown** em um script Python.
@@ -7,6 +7,6 @@ Este script exemplifica como incluir **Markdown** em um script Python.
 
 Abaixo está uma função que soma dois números:
 
-"""
+'''python
 def soma(a, b):
     return a + b
