@@ -1,5 +1,7 @@
 # Select a column or Multiple columns
 The select method in PySpark is a powerful operation used to project a subset of columns from a DataFrame, allowing for efficient data manipulation and analysis. This method is fundamental in the process of transforming and managing big data sets in Spark, as it helps in refining the data structure to fit the needs of your analysis or application.
+
+# Watch a video about it [Select](https://www.youtube.com/watch?v=IP9ubD0YBaM)
 ```python
 
 from pyspark.sql import SparkSession
