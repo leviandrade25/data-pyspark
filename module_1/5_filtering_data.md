@@ -3,7 +3,7 @@ In PySpark, the filter function is a powerful tool used to narrow down datasets 
 
 # Watch a video about it [Filtering](https://www.youtube.com/watch?v=lXE_GdphwpY)
 
-# ![](https://github.com/leviandrade25/data-pyspark/blob/main/gifs/Select.gif)
+# ![teste](https://github.com/leviandrade25/data-pyspark/blob/main/gifs/Select.gif)
 ```python
 
 from pyspark.sql import SparkSession
