@@ -1,7 +1,7 @@
 # Filtering data
 In PySpark, the filter function is a powerful tool used to narrow down datasets based on specific criteria. It allows users to apply a condition to each row of a DataFrame or an RDD (Resilient Distributed Dataset), returning only those rows that meet the specified condition. This function is particularly useful in data processing and analysis tasks where there is a need to exclude irrelevant or unnecessary data, such as filtering out records that do not meet certain quality standards, or focusing analysis on a subset of data that meets particular criteria. By using the filter function, data engineers and scientists can efficiently manage large volumes of data, enhancing the performance of their data pipelines and making their analyses more precise and relevant. In essence, filter acts as a sieve, enabling users to focus on the most pertinent information within their datasets.
 
-# Watch a video about it [![Filtering](images/pyspark.webp)](https://www.youtube.com/watch?v=lXE_GdphwpY)
+# Watch a video about it [![Filtering](pyspark.webp)](https://www.youtube.com/watch?v=lXE_GdphwpY)
 
 ```python
 
