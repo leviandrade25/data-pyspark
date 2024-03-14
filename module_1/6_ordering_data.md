@@ -1,7 +1,7 @@
 # Ordering data
 Ordering data is a fundamental operation in data processing that helps in understanding the data better, making it more readable, or preparing it for specific analyses. In PySpark, sorting operations can be performed on DataFrame columns using various functions and methods. These operations are crucial in data preparation, analysis, and reporting phases of data processing tasks.
 
-# Watch a video about it [Ordering](https://www.youtube.com/watch?v=zVTkcmt6k_M&feature=youtu.be)
+# Watch a video about [Ordering](https://www.youtube.com/watch?v=zVTkcmt6k_M&feature=youtu.be)
 
 ```python
 

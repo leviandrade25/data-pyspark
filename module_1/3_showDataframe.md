@@ -12,7 +12,7 @@ While the show method is incredibly helpful, using it effectively requires follo
 - Use truncate to Manage Wide DataFrames: Wide DataFrames with many columns can result in unreadable output. Use the truncate parameter to limit the character length of each column value displayed, e.g., df.show(truncate=50).
 - Avoid show in Production Code: The show method is primarily intended for interactive use and debugging. In production code, relying on actions like count, collect, or writing data to storage is more appropriate.
 
-# Watch a video about it [Show Dataframe](https://youtu.be/Y5R3M0Ne9T0)
+# Watch a video about [Show Dataframe](https://youtu.be/Y5R3M0Ne9T0)
 ```python
 
 from pyspark.sql import SparkSession
